@@ -1,0 +1,12 @@
+Reflection Summary
+
+Using Git to manage my Flask project has been very useful in allowing me to track changes to the project over time, archive it when needed, and keep a record of changes and updates to the project. Using GitHub as a remote repository ensures that my code is backed up and accessible from anywhere.
+
+In this project, I commit changes frequently, which helps me manage the different development phases efficiently. Each commit represents a logical step in the evolution of the project, making it easier for me to understand and review the development process.
+
+In future collaborative projects, I feel that version control features such as branching are critical. Branching allows multiple developers to work on different features at the same time without interfering with each other's work. Once a feature is complete, it can be checked out and tested and then merged back into the master branch, a workflow that enhances collaboration, ensures code quality, and reduces the chance of problems.
+
+So I think version control is an essential tool for developers.
+
+Here's a link to my GitHub repository: [GitHub repository]
+https://github.com/Frsven47/FC724-Assignment-3-4.git
